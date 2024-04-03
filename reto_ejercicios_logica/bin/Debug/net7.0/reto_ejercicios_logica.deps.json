@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "reto_ejercicios_logica/1.0.0": {
+        "runtime": {
+          "reto_ejercicios_logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reto_ejercicios_logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

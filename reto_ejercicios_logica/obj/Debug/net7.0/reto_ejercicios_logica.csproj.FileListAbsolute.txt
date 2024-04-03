@@ -1,0 +1,15 @@
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\bin\Debug\net7.0\reto_ejercicios_logica.exe
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\bin\Debug\net7.0\reto_ejercicios_logica.deps.json
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\bin\Debug\net7.0\reto_ejercicios_logica.runtimeconfig.json
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\bin\Debug\net7.0\reto_ejercicios_logica.dll
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\bin\Debug\net7.0\reto_ejercicios_logica.pdb
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.csproj.AssemblyReference.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.AssemblyInfoInputs.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.AssemblyInfo.cs
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.csproj.CoreCompileInputs.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.dll
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\refint\reto_ejercicios_logica.dll
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.pdb
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\reto_ejercicios_logica.genruntimeconfig.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\Entrega#2\reto_ejercicios_logica\obj\Debug\net7.0\ref\reto_ejercicios_logica.dll
