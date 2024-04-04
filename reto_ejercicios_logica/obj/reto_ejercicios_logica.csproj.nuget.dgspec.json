@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj": {}
+    "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\ejercicios_logica_csharp\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj": {
+    "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\ejercicios_logica_csharp\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj",
+        "projectUniqueName": "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\ejercicios_logica_csharp\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj",
         "projectName": "reto_ejercicios_logica",
-        "projectPath": "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj",
+        "projectPath": "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\ejercicios_logica_csharp\\reto_ejercicios_logica\\reto_ejercicios_logica.csproj",
         "packagesPath": "C:\\Users\\sarac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\reto_ejercicios_logica\\obj\\",
+        "outputPath": "C:\\Users\\sarac\\Documents\\UNIVERSIDAD\\ARQ DISPOSITIVOS MOVILES\\Entrega#2\\ejercicios_logica_csharp\\reto_ejercicios_logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sarac\\AppData\\Roaming\\NuGet\\NuGet.Config",
